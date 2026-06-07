@@ -8,7 +8,7 @@
 
 ### 👋 Hola, soy Felipe
 
-Estudiante de 2do año de **Analista en Tecnologías de la Información** en ORT Uruguay. Me apasiona construir software real — desde sistemas de gestión hasta aplicaciones móviles con APIs propias. Disponible para prácticas y oportunidades laborales.
+Estudiante de **Analista en Tecnologías de la Información** en ORT Uruguay. Me apasiona construir software real — desde sistemas de gestión hasta aplicaciones móviles con APIs propias. Disponible para proyectos y oportunidades laborales.
 
 ---
 
@@ -43,7 +43,7 @@ Estudiante de 2do año de **Analista en Tecnologías de la Información** en ORT
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🔭 **Sistema de Astronomía** | Gestión de reservas de salas y préstamos con 3 tipos de usuarios | C# · .NET · SQL |
+| 🔭 **Sistema de Astronomía** | Gestión de reservas de salas y préstamos de artículos | C# · .NET · SQL |
 | 💪 **App Móvil de Bienestar** | Actividades de salud y entrenamiento con geolocalización | App Móvil · API REST |
 | ✈️ **Sistema de Vuelos** | Búsqueda, reserva y compra de vuelos multi-usuario | C# · .NET · SQL |
 | 🎨 **Páginas Responsivas** | Sitios web con diseño UI/UX adaptado a todos los dispositivos | HTML · CSS · JS |
