@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=6c6fff&height=200&section=header&text=Felipe%20Reyes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20·%20ORT%20Uruguay&descAlignY=58&descColor=c0c0ff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=6c6fff&height=200&section=header&text=Felipe%20Reyes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Student%20·%20ORT%20Uruguay&descAlignY=58&descColor=c0c0ff)
 
 </div>
 
